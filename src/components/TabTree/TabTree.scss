@@ -1,0 +1,13 @@
+.tab-tree {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 12px;
+}
+
+.tab-tree__empty {
+  padding: 24px;
+  color: #666d7d;
+  font-size: 13px;
+  text-align: center;
+}
